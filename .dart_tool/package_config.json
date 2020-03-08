@@ -98,10 +98,28 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "firebase_database",
+      "rootUri": "file:///Users/jackyeetan/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "firebase_storage",
+      "rootUri": "file:///Users/jackyeetan/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/jackyeetan/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "2.2"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///Users/jackyeetan/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
     },
     {
       "name": "flutter_test",
@@ -130,6 +148,18 @@
     {
       "name": "image",
       "rootUri": "file:///Users/jackyeetan/flutter/.pub-cache/hosted/pub.dartlang.org/image-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "image_picker",
+      "rootUri": "file:///Users/jackyeetan/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.3+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/jackyeetan/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -248,7 +278,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-03-03T19:33:06.471405Z",
+  "generated": "2020-03-08T19:43:14.141185Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
